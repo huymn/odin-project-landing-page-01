@@ -137,3 +137,42 @@ h4 {
   font-weight: bold;
   margin-right: 48px;
 }
+
+.bottom-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 36px 56px;
+}
+
+.sign-up-container {
+  background-color: #3882f6;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 48px;
+  border-radius: 4px;
+}
+
+.cta-text-container {
+  color: #f9faf8;
+  width: 250px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.cta-text-container p {
+  margin: 0;
+  font-size: 8px;
+  font-weight: 100;
+}
+
+.sign-up-btn-2 {
+  border: 1px solid #f9faf8;
+  color: #f9faf8;
+  border-radius: 3px;
+  background-color: #3882f6;
+  padding: 8px;
+}
